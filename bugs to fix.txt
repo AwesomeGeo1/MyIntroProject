@@ -1,0 +1,5 @@
+Bugs to Fix:
+
+Remove Grab script when block goes in bin-- Fixed
+Make collision for edges larger on outside-- Fixed
+make lazer longer--first draft
